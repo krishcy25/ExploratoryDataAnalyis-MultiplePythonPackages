@@ -5,7 +5,7 @@ Exploratory Data Analysis is an important step in the world of Machine Learning.
 
 Step 1: The dataset used for this analysis is stored in the repository with name "German_Credit.csv". To understand the definition of the fields, you can refer to the Excel file "Original file with data dictionary".
 
-Step 2: Notebook "Simple_EDA_Packages.ipynb" contains the original code, comments and screenshots of the output
+Step 2: Notebook "Simple_EDA_Packages.ipynb" contains the original code, comments and screenshots of the output. I have converted the Notebook code into PDF and placed in the same directory
 
 Step 3: Images used in Notebook were included in the "Images" directory with in this repository
 
